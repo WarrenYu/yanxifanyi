@@ -1,0 +1,19 @@
+.footer {
+    background-color: #006699;
+    color: #ffffff;
+}
+
+.text {
+    display: flex;
+    padding: 12px 260px;
+    justify-content:space-between;
+}
+
+.perfectServiceSingleItem {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 3px 3px 5px 50px;
+    max-width: 430px;
+}

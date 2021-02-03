@@ -1,0 +1,197 @@
+.menu {
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
+  }
+
+.logo {
+    padding: 10px;
+}
+.whatCanWeDoTitle {
+    padding-bottom: 5px;
+    border-bottom:  2px solid #006699;
+    font-size: 40px;
+    color: #006699;
+}
+
+.whatCanWeDoTxt {
+    font-size: 30px;
+    color: #006699;
+}
+
+.whatCanWeDoSingleItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0px 30px 50px 50px;
+    width: 20%;
+}
+
+.whatCanWeDoSingleItemElement {
+    text-align: left;
+
+}
+
+.whatCanWeDo {
+    display: flex;
+    padding: 1% 5%;
+}
+
+.theyChooseUs {
+    display: flex;
+    padding: 12px;
+    align-content: center;
+    justify-content:center;
+}
+
+.theyChooseUsTitle {
+    padding-bottom: 5px;
+    border-bottom:  2px solid #006699;
+    font-size: 40px;
+    color: #006699;
+}
+
+.theyChooseUsSingleItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 3px 3px 5px 50px;
+}
+
+.perfectService {
+    display: flex;
+    padding: 12px 260px;
+    justify-content:center;
+}
+
+.perfectServiceSingleItem {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    padding: 3px 3px 5px 50px;
+    max-width: 430px;
+}
+
+.aboutUs {
+    padding-bottom: 5px;
+    border-bottom:  2px solid #006699;
+    font-size: 40px;
+    color: #006699;
+}
+
+.aboutUsFirstP {
+    display: flex;
+    padding: 1% 10% 3%;
+    align-content: center;
+    justify-content:center;
+}
+
+.securityExperience {
+    display: flex;
+    padding: 1% 1%;
+    align-items: flex-start;
+}
+
+.securityExperienceSingleItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 0px 30px 50px 50px;
+    width: 20%;
+}
+
+.serviceItem {
+    display: flex;
+    padding: 1% 10%;
+    align-content: center;
+    justify-content:center;
+}
+
+.serviceItemSingleItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2% 5% 0 5%;
+    width: 80%;
+}
+
+.translate {
+    padding-bottom: 5px;
+    border-bottom:  2px solid #585e66;
+    font-size: 40px;
+}
+
+.translateItem {
+    display: flex;
+    padding: 1% 8% 1% 2%;
+    align-content: center;
+    justify-content:center;
+}
+
+.translateItemElement {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 4px 6px 30px 94px;
+}
+
+.translateLanguage {
+    font-size: 40px;
+}
+
+.qualityEnsure {
+    display: flex;
+    padding: 2px 17%;
+    justify-content:center;
+}
+
+.qualityEnsureSingleItem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 3px 3px 5px 50px;
+    max-width: 430px;
+}
+
+
+.cooperationPicsItem {
+    display: flex;
+    padding: 1% 10%;
+    align-content: center;
+    justify-content:center;
+}
+
+.cooperationPicsSingleItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2% 5% 0 5%;
+    width: 80%;
+}
+
+
+.connectUs {
+    padding-bottom: 5px;
+    border-bottom:  2px solid #006699;
+    font-size: 30px;
+    color: #006699;
+}
